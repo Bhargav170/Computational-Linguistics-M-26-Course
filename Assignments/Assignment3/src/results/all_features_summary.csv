@@ -1,0 +1,15 @@
+feature,feature_name,classifier,precision,recall,accuracy,f1
+1,BOW frequency (train vocabulary),Naive Bayes,0.8219461697722568,0.794,0.811,0.8077314343845371
+1,BOW frequency (train vocabulary),Logistic Regression,0.8371628371628371,0.838,0.8375,0.8375812093953023
+2,BOW frequency (train + test vocabulary),Naive Bayes,0.8263598326359832,0.79,0.812,0.8077709611451942
+2,BOW frequency (train + test vocabulary),Logistic Regression,0.8371628371628371,0.838,0.8375,0.8375812093953023
+3,BOW binary,Naive Bayes,0.8458244111349036,0.79,0.823,0.8169596690796277
+3,BOW binary,Logistic Regression,0.8698284561049445,0.862,0.8665,0.8658965344048216
+4,Content-word frequency,Naive Bayes,0.8177136972193615,0.794,0.8085,0.8056823947234907
+4,Content-word frequency,Logistic Regression,0.8541458541458542,0.855,0.8545,0.8545727136431784
+5,Content-word binary,Naive Bayes,0.8374485596707819,0.814,0.828,0.8255578093306287
+5,Content-word binary,Logistic Regression,0.867,0.867,0.867,0.867
+6,BOW frequency + negation,Naive Bayes,0.8194726166328601,0.808,0.815,0.8136958710976838
+6,BOW frequency + negation,Logistic Regression,0.8364717542120912,0.844,0.8395,0.8402190144350422
+7,BOW binary + negation,Naive Bayes,0.8485169491525424,0.801,0.829,0.8240740740740741
+7,BOW binary + negation,Logistic Regression,0.8672032193158954,0.862,0.865,0.8645937813440322

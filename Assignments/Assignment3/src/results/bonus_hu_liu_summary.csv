@@ -1,0 +1,3 @@
+experiment,classifier,pooled_precision,pooled_recall,pooled_accuracy,pooled_f1,tn,fp,fn,tp,macro_precision,macro_recall,macro_accuracy,macro_f1
+Feature V + Hu & Liu,Naive Bayes,0.8488612836438924,0.82,0.837,0.8341810783316379,854,146,180,820,0.8497109005875666,0.82,0.837,0.834298025923916
+Feature V + Hu & Liu,Logistic Regression,0.8331726133076182,0.864,0.8455,0.8483063328424153,827,173,136,864,0.8423327757741886,0.864,0.8455,0.8474146883508209
