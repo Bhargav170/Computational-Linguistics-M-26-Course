@@ -1,0 +1,85 @@
+{
+  "ud_release": "r2.17",
+  "files": [
+    {
+      "repository": "UD_English-EWT",
+      "filename": "en_ewt-ud-train.conllu",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/en_ewt-ud-train.conllu",
+      "local_path": "data/raw/en_ewt/en_ewt-ud-train.conllu",
+      "bytes": 15029817,
+      "sha256": "6fe5692f2e02198262483daba0626efe346dd19f0ce6c3ee7728b08af9b90a9c"
+    },
+    {
+      "repository": "UD_English-EWT",
+      "filename": "en_ewt-ud-dev.conllu",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/en_ewt-ud-dev.conllu",
+      "local_path": "data/raw/en_ewt/en_ewt-ud-dev.conllu",
+      "bytes": 1898013,
+      "sha256": "de507882611c54f19934f9a65d654b37f55a5c315da1794b9f13348b28b39c12"
+    },
+    {
+      "repository": "UD_English-EWT",
+      "filename": "en_ewt-ud-test.conllu",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/en_ewt-ud-test.conllu",
+      "local_path": "data/raw/en_ewt/en_ewt-ud-test.conllu",
+      "bytes": 1899759,
+      "sha256": "b837531faddd54f5c89cf5259cfe5306b075556a9ff19b2271393df29c6b02f8"
+    },
+    {
+      "repository": "UD_English-EWT",
+      "filename": "README.md",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/README.md",
+      "local_path": "data/raw/en_ewt/README.md",
+      "bytes": 24450,
+      "sha256": "dd74b1b70a6daa0ab3c7d6e53d2048aec1610c55071135ed619734e37500e463"
+    },
+    {
+      "repository": "UD_English-EWT",
+      "filename": "LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/r2.17/LICENSE.txt",
+      "local_path": "data/raw/en_ewt/LICENSE.txt",
+      "bytes": 20014,
+      "sha256": "b3d1b0f4c6ae151f7eb78738f46ebd5ee140f8a7f76501ba26af123140d35ae7"
+    },
+    {
+      "repository": "UD_French-GSD",
+      "filename": "fr_gsd-ud-train.conllu",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_French-GSD/r2.17/fr_gsd-ud-train.conllu",
+      "local_path": "data/raw/fr_gsd/fr_gsd-ud-train.conllu",
+      "bytes": 23952462,
+      "sha256": "1f34be40a4c21a7576c30010398a1b52c88e6b15654ba900bd334b406eaa7ba4"
+    },
+    {
+      "repository": "UD_French-GSD",
+      "filename": "fr_gsd-ud-dev.conllu",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_French-GSD/r2.17/fr_gsd-ud-dev.conllu",
+      "local_path": "data/raw/fr_gsd/fr_gsd-ud-dev.conllu",
+      "bytes": 2410680,
+      "sha256": "e3e351618331fe2848be11dcd72c7c3bb5ab64957026ece704af5ff712234732"
+    },
+    {
+      "repository": "UD_French-GSD",
+      "filename": "fr_gsd-ud-test.conllu",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_French-GSD/r2.17/fr_gsd-ud-test.conllu",
+      "local_path": "data/raw/fr_gsd/fr_gsd-ud-test.conllu",
+      "bytes": 675415,
+      "sha256": "a75470b1faa49e39c38a85e68bdb444fcd82a08b1600e58975b7ee52091ff8df"
+    },
+    {
+      "repository": "UD_French-GSD",
+      "filename": "README.md",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_French-GSD/r2.17/README.md",
+      "local_path": "data/raw/fr_gsd/README.md",
+      "bytes": 8040,
+      "sha256": "d1a541bb6790fc3d02ed70a281bd4320593b98b8b06ed71371004c98bd74e37d"
+    },
+    {
+      "repository": "UD_French-GSD",
+      "filename": "LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_French-GSD/r2.17/LICENSE.txt",
+      "local_path": "data/raw/fr_gsd/LICENSE.txt",
+      "bytes": 202,
+      "sha256": "899b1804a12ebc090b96339614eede1b64b686721b650a71430b55b5235f7f79"
+    }
+  ]
+}
